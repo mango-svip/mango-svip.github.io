@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
+  <follow_challenge>
+    <feedId>67770151214817280</feedId>
+    <userId>67731812352308224</userId>
+  </follow_challenge>
   <title>这个肯定没人用过°</title>
   
   
